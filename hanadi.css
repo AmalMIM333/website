@@ -54,6 +54,7 @@ h2, strong, h3{
 }
 
 .breif{
+background-color:LightGray;
   text-align: center;
   padding: 10px;
   margin: 30px;
@@ -212,7 +213,7 @@ h2, strong, h3{
 }
 
 .applicant{
-  /*margin-bottom: 10px;*/
+  margin-bottom: 5px;
 }
 
 .applicant iframe{
